@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2376fa3b672c61c4381647b26fd8854f
+timeCreated: 1491314560
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - vassalSword: {instanceID: 0}
+  - ashPile: {fileID: 100000, guid: 9216f70ad4634b642b30edc0348fda23, type: 3}
+  - BMPlayer: {instanceID: 0}
+  - BMPlayerMovement: {instanceID: 0}
+  - EnemyList: {instanceID: 0}
+  - currentTarget: {instanceID: 0}
+  - BMEnemyScript: {instanceID: 0}
+  - BMCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
