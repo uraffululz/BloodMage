@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{EA829256-1E5A-4902-09D7-A54DA0893351}") = "BloodMage", "Assembly-CSharp.csproj", "{D1748486-F053-6982-3BCB-7FAEA997DE33}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodMage", "Assembly-CSharp.csproj", "{D1748486-F053-6982-3BCB-7FAEA997DE33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
